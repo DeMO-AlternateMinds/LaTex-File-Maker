@@ -1,6 +1,6 @@
 # Latex Template
 
-# By Devin M. O'Brien (MasterOfAllEvil)
+# By Devin (MasterOfAllEvil)
 
 
 def start():
